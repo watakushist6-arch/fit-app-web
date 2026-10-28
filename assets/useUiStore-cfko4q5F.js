@@ -1,0 +1,1 @@
+import{u as e}from"./r3f-BpapsCM5.js";var t=e()(e=>({closetTab:`items`,setClosetTab:t=>e({closetTab:t}),shareOutfitId:null,setShareOutfitId:t=>e({shareOutfitId:t})}));export{t};

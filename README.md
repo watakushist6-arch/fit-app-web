@@ -1,2 +1,3 @@
 # fit-app-web
-Test build of fit-app (static files only)
+
+オンライン試着（仮）のテスト公開用ビルド成果物です(ソースコードは含みません)。

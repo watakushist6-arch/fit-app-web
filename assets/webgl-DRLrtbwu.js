@@ -1,0 +1,1 @@
+var e;function t(){if(e!==void 0)return e;try{let t=document.createElement(`canvas`),n=t.getContext(`webgl2`)||t.getContext(`webgl`);e=!!n,n?.getExtension(`WEBGL_lose_context`)?.loseContext()}catch{e=!1}return e}function n(){e=!1}export{n,t};
